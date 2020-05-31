@@ -1,5 +1,5 @@
 ---
-date: '2020-03-27'
+date: '2018-05-01'
 title: 'Lidar based 3D environment scanner'
 github: 'https://github.com/PuneetShrivas/Lidar-3D-Scanning'
 external: 'https://docs.google.com/presentation/d/1pu_MQmlDp1cYAm4m7UtcO2asw1lypkQ4cm-kF8P-6NQ/edit?usp=sharing'
