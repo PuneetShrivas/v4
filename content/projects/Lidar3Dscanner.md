@@ -11,7 +11,7 @@ tech:
   - Laser Cutting 
   - Time of flight Sensing 
 company: 'Institute Technical Summer Project, IIT Bombay'
-showInProjects: false
+showInProjects: true
 ---
 
  - Designed and prototyped a device to recognise and reorganize blank areas of used stationery papers using image processing on campus into a reusable notebook with a 5 member team saving Rs 54k annually

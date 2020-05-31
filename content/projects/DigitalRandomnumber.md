@@ -9,7 +9,7 @@ tech:
   - Timer counter design 
   - Circuit Simulation
 company: 'Digital Electronics Project, EE221 Coursework'
-showInProjects: false
+showInProjects: true
 ---
 
  -A shift register based random number generating circuit. Randomisation is achieved by high frequency cycling of a linear feedback shift register, a discharging 555 timer circuit provides a decreasing frequency clock pulse. Output is displayed on 7 segment digital displays. 

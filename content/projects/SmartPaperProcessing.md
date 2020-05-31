@@ -9,7 +9,7 @@ tech:
   - Operational Process Design 
   - Kinematics and Dynamics of Mechanism 
 company: 'Campus Sustainability Challenge, Inter IIT Tech Meet 2018'
-showInProjects: false
+showInProjects: true
 ---
 
 - Designed and prototyped a device to recognise and reorganize blank areas of used stationery papers using image processing on campus into a reusable notebook with a 5 member team saving Rs 54k annually
