@@ -13,3 +13,7 @@ tech:
 company: 'Institute Technical Summer Project, IIT Bombay'
 showInProjects: false
 ---
+
+ - Designed and prototyped a device to recognise and reorganize blank areas of used stationery papers using image processing on campus into a reusable notebook with a 5 member team saving Rs 54k annually
+- Designed the flow of control of the process and implemented the feed-forward control of involved mechanisms like paper withdrawing, driving belts, cutting blade and segregation mechanism
+- Awarded Bronze medal for prototyping and presenting thorough economic analysis of the project the challenge

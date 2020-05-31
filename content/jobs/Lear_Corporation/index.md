@@ -1,9 +1,9 @@
 ---
 date: '2015-12-21'
-title: 'Creative Technologist Co-op'
-company: 'MullenLowe'
-location: 'Boston, MA'
-range: 'July - Dec 2015'
+title: 'Summer Internship'
+company: 'Lear Corporation'
+location: 'Work From Home'
+range: 'April - June 2020'
 url: 'https://us.mullenlowe.com/'
 ---
 
