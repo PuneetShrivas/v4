@@ -7,7 +7,6 @@ tech:
   - Image Processing
   - Manufacturing
   - Operational Process Design 
-  - Kinematics and Dynamics of Mechanism 
 company: 'Campus Sustainability Challenge, Inter IIT Tech Meet 2018'
 showInProjects: true
 ---

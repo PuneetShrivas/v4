@@ -7,7 +7,6 @@ tech:
   - Digital electronics circuits
   - Digital display
   - Timer counter design 
-  - Circuit Simulation
 company: 'Digital Electronics Project, EE221 Coursework'
 showInProjects: true
 ---
