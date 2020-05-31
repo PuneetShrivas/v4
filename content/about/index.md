@@ -2,18 +2,18 @@
 title: 'About Me'
 avatar: './me.jpg'
 skills:
-  - JavaScript (ES6+)
-  - HTML & (S)CSS
-  - React
-  - Vue
-  - Node.js
-  - WordPress
+  - Systems Engineering 
+  - Technical Management 
+  - Project Leadership
+  - Embedded Programming
+  - 3D CADding 
+  - Physics Simulations  
 ---
 
-Hello! I'm Puneet Shrivas, a systems engineer based in Mumbai, India.
+Hello! I'm Puneet Shrivas, a Mechanical Engineering undergraduate at [Indian Institute of Technology Bombay](http://www.iitb.ac.in/) in Mumbai, India.
 
-I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between. My goal is to always build products that provide pixel-perfect, performant experiences.
+I enjoy working on purposeful projects in the field of space engineering and sustainable technology development. //Add more text
 
-Shortly after graduating from [Northeastern University](https://www.ccis.northeastern.edu/), I joined the engineering team at [Upstatement](https://www.upstatement.com/) where I work on a wide variety of interesting and meaningful projects on a daily basis.
+Shortly after joining, I joined the [Student Satellite Lab](https://www.aero.iitb.ac.in/satlab/) at my institute where I have worked on a wide variety of interesting and meaningful projects.
 
-Here are a few technologies I've been working with recently:
+Here is my skillset:

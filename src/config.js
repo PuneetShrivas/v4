@@ -23,8 +23,8 @@ module.exports = {
       url: 'https://www.linkedin.com/in/puneet-shrivas/',
     },
     {
-      name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
+      name: 'Wordpress',
+      url: 'https://fixingthislater.wordpress.com/',
     },
     {
       name: 'Instagram',
