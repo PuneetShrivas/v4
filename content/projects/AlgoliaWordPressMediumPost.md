@@ -8,5 +8,5 @@ tech:
   - WordPress
   - PHP
 company: 'Upstatement'
-showInProjects: false
+showInProjects: true
 ---
